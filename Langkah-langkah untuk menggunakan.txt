@@ -1,0 +1,5 @@
+langkah dalam melakukan / menggunakan aplikasi peminjaman mobil
+
+melakukan Install Composer Laravel untuk backend
+
+melakukan npm install untuk vue_frontend
